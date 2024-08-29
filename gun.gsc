@@ -1,0 +1,1 @@
+/mnt/h/SteamLibrary/steamapps/common/Call of Duty Modern Warfare Remastered/h2m-mod/scripts/mp/gun.gsc
