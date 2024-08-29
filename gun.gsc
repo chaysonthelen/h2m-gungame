@@ -36,9 +36,8 @@ guninfo( gun_name, attachment_name, attachment2 )
     {
         attachment2 = "none"
     }
-    //test
+
     new_gun.fullname = maps\mp\gametypes\_class::buildweaponname( gun_name, attachment_name, attachment2, randomInt(9), ["specialty_bling"] );
-    //new_gun.fullname = maps\mp\gametypes\_class::buildweaponnamecamo( new_gun.fullname, randomInt(44) );
     level.gun_guns[level.gun_guns.size] = new_gun;
 }
 
